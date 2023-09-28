@@ -1,0 +1,22 @@
+div {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+button:hover {
+  background-color: coral;
+  cursor: pointer;
+}
+
+#cervejasDiv th,
+td {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 8px;
+  text-align: center;
+  border: 1px solid;
+}
+
+#cervejasDiv th {
+  background-color: coral;
+}
